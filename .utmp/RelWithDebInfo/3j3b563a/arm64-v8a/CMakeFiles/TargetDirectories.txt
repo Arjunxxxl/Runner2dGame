@@ -1,0 +1,8 @@
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/aasan/UnityProjects/Runner2d/.utmp/RelWithDebInfo/3j3b563a/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

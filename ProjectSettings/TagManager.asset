@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Player
+  - Skipes
+  - LevelComplete
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 1855608435
+    locked: 0
+  - name: Level
+    uniqueID: 1195525045
+    locked: 0
+  - name: Enemy
+    uniqueID: 178375543
+    locked: 0
+  - name: Spikes
+    uniqueID: 26945447
+    locked: 0
+  - name: Pickups
+    uniqueID: 3618831127
+    locked: 0
+  - name: Player
+    uniqueID: 1307211705
+    locked: 0
+  - name: Efx
+    uniqueID: 1973236439
+    locked: 0
+  m_RenderingLayers:
+  - Default
